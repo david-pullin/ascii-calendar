@@ -55,13 +55,6 @@ Namespace: Sprocket.Text.Ascill
 
 Using a longer CellWidth will display the full day's name.  Day names displayed will be dependant on your locale unless you use overwrite them.
 
-
----
-
-The full API can be found at DOXX to do
-
----
-
 <br>
 
 # Calendar Class
